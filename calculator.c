@@ -2,5 +2,5 @@
 
 int calculator(int a, int b) {
   // Some calculation
-  return a * b;
+  return a + b;
 }
